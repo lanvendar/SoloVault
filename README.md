@@ -2,7 +2,7 @@
 
 轻量级、完全离线、零服务端的个人密码管理器。所有数据加密存储在本地浏览器，无需注册、无需云端，你的密码只属于你。
 
-[demo地址](https://lanvendar.github.io/SoloVault "SoloVault")
+[Demo地址](https://lanvendar.github.io/SoloVault "SoloVault")
 
 ## 部署
 
