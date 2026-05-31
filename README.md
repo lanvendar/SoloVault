@@ -2,6 +2,8 @@
 
 轻量级、完全离线、零服务端的个人密码管理器。所有数据加密存储在本地浏览器，无需注册、无需云端，你的密码只属于你。
 
+[Demo地址](https://lanvendar.github.io/SoloVault "SoloVault")
+
 ## 部署
 
 SoloVault 是纯静态 PWA，只需把文件放到任何 Web 服务器上即可。**Web Crypto API 要求 HTTPS 或 localhost**，因此不能直接用 `file://` 打开。
